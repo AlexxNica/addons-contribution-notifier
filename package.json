@@ -25,7 +25,7 @@
     "github-api": "^3.0.0",
     "nsp": "^2.6.2",
     "postmark": "^1.2.1",
-    "pug": "^2.0.0-beta6",
+    "pug": "^2.0.0-beta7",
     "redis": "^2.6.2",
     "source-map-support": "^0.4.8"
   },
